@@ -1,0 +1,99 @@
+# my-first-repository
+repository
+<!doctype HTML>
+<html>
+<head>
+    <title>PsiOmega</title>
+    <meta charset="utf-8" />
+</head>
+<Header style="background-color:rgb(57, 82, 125);">
+    <p style="text-align:center;color: rgb(19, 36, 232);font-size: 50px;"><img src="assets\imagens\logo.png" width="150px"></p>
+</Header>
+<body style="background-color:rgb(199, 214, 245);">
+    <main>
+        <h1 style="color:rgb(53, 125, 60);text-align:center;">PsiOmega</h1>
+        <h4 style="text-align:center; background-color: aliceblue;">Sobre nós :</h4>
+        <p style="text-align:center;">Somos a equipe PsiOmega, técnicos de desenvolvimento de sistemas em formação, trabalhamos com base no método Scrum, visando a transparência, inspeção minuciosa, adaptações às necessidades e confiabilidade na entrega dos nossos trabalhos. Nossa equipe é formada por seis integrantes de extrema competência e dedicação, composto por cinco desenvolvedores e um tech leader, onde todos prezam pelo trabalho em equipe harmônico e colaborativo. Nossa equipe não dispensa um bom desafio, desde o início do curso devotamos total esforço e dedicação, para o aprimoramento das nossas habilidades práticas e teóricas, sempre buscando novos conhecimentos, trazendo nossas dificuldades do espectro intangível ao tangível, afim de trazer excelência a todos os nossos projetos.</p>
+        <article style="float:left;">
+            <section>
+                <h1 style="text-align:center;background-color:white;">Sobre os integrantes</h1>
+            </section>
+            <section>
+                <a href=" https://www.instagram.com/fabio_vsj/" target="-blank">
+                    <img src="assets\imagens\fabio.jfif" style="float:right;width:75px">
+                    <img src="assets\imagens\fabio.jfif" style="float:right;width:75px;">
+                    <h2 style="color:green;">Fábio Vilas Boas</h2>
+                </a>
+                <p>Olá! Eu sou o Fábio, tenho 15 anos, nasci em Sorocaba-SP. Iniciei
+                    o curso de desenvolvimento de sistemas, pois tenho grande apreço
+                    pela área, também tenho interesse em aprimorar minhas habilidades na área para prosseguir com as
+                    ferramentas e meus conhecimentos, no mercado de trabalho com os meus futuros projetos pessoais
+                    profissionais. Sou apaixonado por moda, literatura, linguagens e arquitetura, inclusive, pretendo
+                    seguir na arquitetura como minha futura área profissional.</p>
+            </section>
+            <section>
+                <a href="https://www.instagram.com/019caurin/" target="-blank">
+                    <img src="assets\imagens\caurin.jfif" style="float:right;width:75px;height:85px;">
+                    <h2 style="color:green;">Gabriel Caurin </h2>
+                </a>
+                <p>Olá! Sou o Gabriel, tenho 16 anos, nasci em Campinas-SP. Iniciei o curso de DS, pois desde criança
+                    tenho muito apreço pela área de tecnologia, também tenho interesse em prosseguir na minha carreira
+                    profissional como desenvolvedor de sistemas. Gosto de estudar a área de hardware dos meu
+                    computadores, assim também gosto de montar as máquinas, no meu tempo livre não hesito em estar
+                    online e participar de lives, sempre estou informado e atento.</p>
+            </section>
+            <section>
+                <a href="https://www.instagram.com/_gibasilio/" target="-blank">
+                    <img src="assets\imagens\giovana2.jfif" style="float:right;width:75px;">
+                    <h2 style="color:green;">Giovana Basílio</h2>
+                </a>
+                <p>Olá! Sou a Giovana, tenho 16 anos, nasci em Campinas-SP. Iniciei o curso, pois, na minha perspectiva,
+                    com base na proposta do novo ensino médio tecnico-formativo apresentado pelo SESI, esse curso é o
+                    mais conveniente para o segmento da minha futura carreira profissional, de acordo com a demanda do
+                    mercado de trabalho. Adoro sempre estar conectada e informada com os acontecimentos e novidades,
+                    gosto de assistir séries e filmes, além de gostar de uma boa música.</p>
+            </section>
+            <section>
+                <a href="https://www.instagram.com/nicolyyval/" target="-blank">
+                    <img src="assets\imagens\nicoly2.jfif" style="float:right;width:75px;">
+                    <h2 style="color:green;">Nicoly Val Ferreira</h2>
+                </a>
+                <p>Olá! Sou a Nicoly, tenho 15 anos, nasci em Campinas-SP. Iniciei o curso, pois, na minha perspectiva,
+                    com base na proposta do novo ensino médio tecnico-formativo apresentado pelo SESI, esse curso é o
+                    mais conveniente para o segmento da minha futura carreira profissional, de acordo com a demanda do
+                    mercado de trabalho. Gosto muito de literatura, sou apaixonada por livros, também danço e escrevo
+                    como hobby.</p>
+            </section>
+            <section>
+                <a href=https://www.instagram.com/rafael_cumpri target="-blank">
+                <img src="assets\imagens\cumpri.jfif" style="float:right;width:75px">
+                <h2 style="color:green;">Rafael Cumpri</h2></a>
+                <p>Olá! Sou o Rafael, tenho 16 anos, nasci em Campinas-SP. Iniciei o curso pois desde sempre busquei
+                    conhecimentos nas diversas áreas da tecnologia, também sempre tive aptidões com desenvolvimento,
+                    contudo, desde já tenho experiências com o conteúdo. Gosto de esportes, jogos de raciocínio como
+                    xadrez e andar de skate, sou uma pessoa muito ativa e gosto de me colocar para pensar e, resolver um
+                    dilema.</p>
+            </section>
+            <section>
+                <a href="https://www.instagram.com/iam.mattosz/" target="-blank">
+                    <img src="assets\imagens\vitor.jpg" style="float:right;width:75px">
+                    <h2 style="color:green;">Victor Hugo</h2>
+                </a>
+                <p>Olá! Sou o Victor, tenho 16 anos, nasci em Valinhos-SP. Iniciei o curso pois Iniciei o curso de DS,
+                    pois desde criança tenho muito apreço pela área de tecnologia, porém não tenho total interesse em
+                    prosseguir na minha carreira profissional como desenvolvedor de sistemas. Gosto de tocar violão,
+                    jogar videogame e passear nos tempo livres. </p>
+            </section>
+        </article>
+        <section style="text-align:center;">
+            <img src="assets\imagens\psiomega.jpg" width="300px">
+            <h4>Essa é a equipe psi omega :)</h4>
+        </section>
+    </main>
+</body>
+<footer>
+        <section style="text-align:center;background-color:rgb(57, 82, 125)">
+            <a href="https://linktr.ee/psiomega.01" target="-blank"><img src="assets\imagens\logo.png" width="80" height="80"></a>
+        </section>
+</footer>
+</html>
